@@ -1,0 +1,19 @@
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(7, 63, 9);
+    color: cadetblue;
+    padding: 10px 20px;
+}
+
+.top-bar .logo {
+    font-size: 24px;
+    color: rgb(235, 132, 132);
+}
+
+.top-bar .links a {
+    color: rgb(235, 132, 132);
+    text-decoration: none;
+    margin-left: 20px;
+}

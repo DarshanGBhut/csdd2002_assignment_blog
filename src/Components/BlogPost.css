@@ -1,0 +1,32 @@
+.blog-post {
+    border: 1px solid lightblue;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: green;
+}
+
+.blog-post .title {
+    font-size: 28px;
+    margin: 0;
+    border: rgb(235, 132, 132);
+}
+
+.blog-post .meta {
+    color: rgb(138, 22, 22);
+    margin: 10px 0;
+}
+
+.blog-post .image {
+    width: 50%;
+    height: auto;
+}
+
+.blog-post .body {
+    margin: 20px 0;
+    color: cadetblue;
+}
+
+.blog-post .body2 {
+    margin: 20px 0;
+    color: cadetblue;
+}
