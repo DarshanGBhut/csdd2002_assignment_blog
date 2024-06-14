@@ -2,18 +2,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(7, 63, 9);
+    background-color: rgb(18, 0, 152);
     color: cadetblue;
     padding: 10px 20px;
 }
 
 .top-bar .logo {
     font-size: 24px;
-    color: rgb(235, 132, 132);
+    color: rgb(181, 188, 187);
 }
 
 .top-bar .links a {
-    color: rgb(235, 132, 132);
+    color: rgb(181, 188, 187);
     text-decoration: none;
     margin-left: 20px;
 }
